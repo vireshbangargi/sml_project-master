@@ -1,0 +1,16 @@
+.slide_track {
+  display: flex;
+  overflow: hidden;
+  /* width: calc(250px * 18); */
+  /* gap: 2; */
+}
+
+.slider {
+  margin: auto;
+  width: 90%;
+}
+
+.slide {
+  height: 100px;
+  width: 150px;
+}

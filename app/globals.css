@@ -1,0 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Crimson+Text&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Acme&family=Fugaz+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@800&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
